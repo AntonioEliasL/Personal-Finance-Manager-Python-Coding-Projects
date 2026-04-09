@@ -15,10 +15,15 @@ Permitiendo que el usuario, divida su ingreso, establezca un porcentaje claro y 
 
 
 # Capturas del Programa
+
 ![Captura del Programa](Screenshot 2026-04-09 113350.png)
+
 ![Captura del Programa](Screenshot 2026-04-09 113516.png)
+
 ![Captura del Programa](Screenshot 2026-04-09 113621.png)
+
 ![Captura del Programa](Screenshot 2026-04-09 113702.png)
+
 ![Captura del Programa](Screenshot 2026-04-09 113748.png)
 
 ##  Tecnologías
